@@ -1,4 +1,4 @@
-NAME = phusion/baseimage
+NAME = vektory79/i386-baseimage
 VERSION = 0.9.19
 
 .PHONY: all build test tag_latest release ssh
